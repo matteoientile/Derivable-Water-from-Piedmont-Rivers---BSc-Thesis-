@@ -109,7 +109,8 @@ The analysis highlights significant differences between the Multi-Year approach 
 * The **Multi-Year approach** provides a more robust estimation of the variance and tail risks (extreme drought years).
 * The **Typical Year approach**, while computationally lighter, tends to smooth out volatility, potentially underestimating risks in highly variable regimes.
 
-![Box Plot Comparison](LINK_AL_TUO_BOX_PLOT_FINALE.png)
+![Box Plot Comparison](<img width="1015" height="547" alt="image" src="https://github.com/user-attachments/assets/8953594c-fa2c-4df0-bd9f-2b0e83de1e51" />
+)
 
 ---
 
