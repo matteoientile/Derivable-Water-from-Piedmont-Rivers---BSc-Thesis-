@@ -12,7 +12,7 @@ The tool performs a comparative analysis between two statistical methodologies o
 1.  **Multi-Year Stochastic Approach:** Analyzes the full historical time series to derive volume distributions.
 2.  **Typical Year Probabilistic Approach:** Constructs synthetic "Mean" and "Poor" (20th percentile) years based on daily flow duration curves (FDC).
 
-> **Note:** This repository contains the source code for my Bachelor's Thesis in Civil Engineering at Politecnico di Torino. The core logic demonstrates transferrable skills in time-series analysis, numerical integration, and statistical modeling.
+> **Note:** This repository contains the source code for my Bachelor's Thesis in Civil Engineering at Politecnico di Torino. 
 
 ---
 
