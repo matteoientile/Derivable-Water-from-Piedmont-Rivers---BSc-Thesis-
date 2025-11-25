@@ -21,7 +21,7 @@ The tool performs a comparative analysis between two statistical methodologies o
 ### Flow Duration Curve & Volume Estimation
 The algorithm computes the withdrawable volume by integrating the area between the available flow curve (depurated of ecological constraints) and the plant capacity.
 
-![Duration Curve Example](<img width="1160" height="547" alt="image" src="https://github.com/user-attachments/assets/c9170f90-c9bf-441f-bfc6-1c00082e3beb" />)
+![Duration Curve Example](https://github.com/user-attachments/assets/c9170f90-c9bf-441f-bfc6-1c00082e3beb)
 *(Example: Duration curve showing Available Flow vs. Maximum Withdrawable Flow)*
 
 ---
@@ -109,13 +109,4 @@ The analysis highlights significant differences between the Multi-Year approach 
 * The **Multi-Year approach** provides a more robust estimation of the variance and tail risks (extreme drought years).
 * The **Typical Year approach**, while computationally lighter, tends to smooth out volatility, potentially underestimating risks in highly variable regimes.
 
-![Box Plot Comparison](<img width="1015" height="547" alt="image" src="https://github.com/user-attachments/assets/8953594c-fa2c-4df0-bd9f-2b0e83de1e51" />
-)
-
----
-
-## 👤 Author
-
-**Matteo Ientile**
-* M.Sc. Student in Mathematical Engineering @ Politecnico di Torino
-* [LinkedIn](https://www.linkedin.com/in/matteo-ientile/)
+![Box Plot Comparison](https://github.com/user-attachments/assets/8953594c-fa2c-4df0-bd9f-2b0e83de1e51)
