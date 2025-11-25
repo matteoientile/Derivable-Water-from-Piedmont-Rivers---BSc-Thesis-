@@ -21,8 +21,7 @@ The tool performs a comparative analysis between two statistical methodologies o
 ### Flow Duration Curve & Volume Estimation
 The algorithm computes the withdrawable volume by integrating the area between the available flow curve (depurated of ecological constraints) and the plant capacity.
 
-![Duration Curve Example](<img width="1160" height="547" alt="image" src="https://github.com/user-attachments/assets/c9170f90-c9bf-441f-bfc6-1c00082e3beb" />
-)
+![Duration Curve Example](<img width="1160" height="547" alt="image" src="https://github.com/user-attachments/assets/c9170f90-c9bf-441f-bfc6-1c00082e3beb" />)
 *(Example: Duration curve showing Available Flow vs. Maximum Withdrawable Flow)*
 
 ---
